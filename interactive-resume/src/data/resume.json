@@ -1,0 +1,37 @@
+{
+    "name": "Maximiliano Wullbrand-Naddeo",
+    "title": "Full Stack Developer",
+    "about": "Nothing here yet",
+    "experience": [
+        {
+            "company": {
+                "name": "Wix",
+                "description": "Wix is a website builder that allows users to create websites using drag and drop tools. The company was founded in 2006 and is headquartered somewhere",
+                "logo": "",
+                "website": "https://www.wix.com/"
+            },
+            "role": {"name": "Full Stack Developer"},
+            "startDate": "2021-01-01",
+            "endDate": "2021-12-31",
+            "description": "Nothing here yet"
+        },
+        {
+            "company": {
+                "name": "more dms gmbh",
+                "description": "more dms gmbh is a software company that specializes in document management solutions. The company was founded in 1994 and is headquartered in Germany",
+                "logo": "",
+                "website": "https://more-dms.com/"
+            },
+            "role": {"name": "Full Stack Developer"},
+            "startDate": "2021-01-01",
+            "endDate": "2021-12-31",
+            "description": "Nothing here yet"
+        }
+    ],
+    "skills": [],
+    "education": [],
+    "portrait": "https://static.wixstatic.com/media/ad5e54_4a7d606402b14cb8acd822266b30fe15~mv2.jpg/v1/fill/w_359,h_404,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/max_web.jpg",
+    "companies": [],
+    "technologies": [],
+    "roles": []
+}
